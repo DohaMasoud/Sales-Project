@@ -17,7 +17,7 @@ Determine the average discount in relation to product sales.
 
 Assess whether discounts impact sales positively or negatively.
 
-Tools Used:
+## Tools Used:
 
 Microsoft Excel (Power Query & Power Pivot)
 
