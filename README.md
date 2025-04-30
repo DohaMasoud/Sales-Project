@@ -36,7 +36,7 @@ Q4 of 2023 recorded the highest sales volume.
 
 Discounts were positively correlated with higher sales, particularly in early 2023.
 
-##💡 Recommendations
+## 💡 Recommendations
 Inventory Optimization: Ensure stock availability for best-selling items.
 
 Promotions: Use regional insights to target marketing efforts.
