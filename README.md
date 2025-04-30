@@ -19,7 +19,7 @@ Assess whether discounts impact sales positively or negatively.
 
 ## Tools Used:
 
-Microsoft Excel (Power Query & Power Pivot)
+Microsoft Excel (Power Query & Power Pivot) && Power BI
 
 ## 🔍 Key Findings
 ### Sales Performance:
