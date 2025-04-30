@@ -21,72 +21,30 @@ Tools Used:
 
 Microsoft Excel (Power Query & Power Pivot)
 
-## 🔍 Data Insights & Key Findings
-### 🔹 1. Regional Sales Performance
-North region achieved the highest sales in 2023.
+## 🔍 Key Findings
+### Sales Performance:
+North region had the highest sales in 2023.
 
-Recommendations:
+Electronics category in the North was the top performer.
 
-Ensure stock availability in high-demand regions.
-
-Offer promotions in underperforming areas.
-
-Gather customer feedback to improve regional strategies.
-
-### 🔹 2. Top Product Categories by Region
-Electronics led sales in the North region.
-
-## Recommendations:
-
-Highlight and recommend electronic products in the North.
-
-Promote Furniture category to balance sales.
-
-Ensure clear product descriptions to improve conversions.
-
-###🔹 3. Highest Contributing Products by Region
 Headphones dominated sales in the South.
 
-Recommendation:
+Smartphones had the highest overall sales contribution.
 
-Bundle headphones with accessories (e.g., cases, chargers).
+### Customer Experience:
+Q4 of 2023 recorded the highest sales volume.
 
-###🔹 4. Overall Top-Selling Product
-Smartphones had the highest contribution to total sales.
+Discounts were positively correlated with higher sales, particularly in early 2023.
 
-Recommendations:
+##💡 Recommendations
+Inventory Optimization: Ensure stock availability for best-selling items.
 
-Collaborate with local influencers to promote smartphones.
+Promotions: Use regional insights to target marketing efforts.
 
-Offer bundled warranties and accessories.
+Bundling Strategy: Sell accessories with high-demand products.
 
-Launch marketing campaigns to boost other product lines.
+Customer Engagement: Use feedback and personalization to improve experience.
 
-### 🔹 5. Peak Sales Periods
-Q4 of 2023 (October–December) recorded the highest sales.
+Seasonal Planning: Maximize revenue during Q4 with targeted campaigns.
 
-Recommendations:
-
-Plan exclusive discounts and offers during this period.
-
-Create a competitive edge through excellent service and delivery.
-
-###🔹 6. Impact of Discounts on Sales
-In early 2023, both discounts and sales were higher compared to 2024, indicating that discounts positively influence sales.
-
-##Recommendations:
-
-Clearly display discounts across all channels (website, app, in-store).
-
-Use customer purchase history to offer personalized discounts.
-
-## ✅ Conclusion
-By implementing the insights and recommendations in this report, the company can:
-
-Enhance operational efficiency
-
-Improve customer satisfaction
-
-Drive higher profitability
-
-We welcome further discussion on strategy refinement and implementation.
+Discount Strategy: Clearly display and personalize discounts to drive conversion.
