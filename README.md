@@ -1,4 +1,4 @@
-# 📈 Sales Data Analysis Report (2023–2024)
+# 📈 Sales Data Analysis  (2023–2024)
 ## 📝 Executive Summary
 We analysis data of sales to extract information and gain insights that help to make decisions and to optimize our service based on certain scope.
 
