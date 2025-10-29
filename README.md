@@ -38,8 +38,9 @@ Discounts were positively correlated with higher sales, particularly in early 20
 ## 📈 Dashboard  
 Here are some sample screenshots from the Power BI dashboard:  
 
-![Dashboard Overview](images/2025-08-13(10).png)  
-![Loan Insights](images/loanpage.jpeg)  
+![sales](IMAGE/2025-08-07(11).png)  
+![profit](IMAGE/2025-08-07(13).png)  
+
 ## 💡 Recommendations
 Inventory Optimization: Ensure stock availability for best-selling items.
 
