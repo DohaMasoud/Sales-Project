@@ -35,7 +35,11 @@ Smartphones had the highest overall sales contribution.
 Q4 of 2023 recorded the highest sales volume.
 
 Discounts were positively correlated with higher sales, particularly in early 2023.
+## 📈 Dashboard  
+Here are some sample screenshots from the Power BI dashboard:  
 
+![Dashboard Overview](images/2025-08-13(10).png)  
+![Loan Insights](images/loanpage.jpeg)  
 ## 💡 Recommendations
 Inventory Optimization: Ensure stock availability for best-selling items.
 
